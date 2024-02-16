@@ -1,3 +1,3 @@
 # Calculator
 
-An calculator webapp, made by developer Swastik Bhuyan.
+A calculator webapp, made by developer Swastik Bhuyan.
